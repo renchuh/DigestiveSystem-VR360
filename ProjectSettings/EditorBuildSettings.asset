@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HP.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/esophagus1.unity
+    guid: 60306cdf702ef264a8c1f4111b3a6828
+  - enabled: 1
+    path: Assets/Scenes/esophagus2.unity
+    guid: a14dbb3250000024c8aab498a788135a
+  - enabled: 1
+    path: Assets/Scenes/esophagus3.unity
+    guid: 496805e67652d6743b4cf48bf9ea072e
+  - enabled: 1
+    path: Assets/Scenes/esophagus4.unity
+    guid: 241bed3e5e363a149b2d2e3367d4e07b
+  - enabled: 1
+    path: Assets/Scenes/s_intestine1.unity
+    guid: fa5325e8a128bbb468c9caa213706e71
+  - enabled: 1
+    path: Assets/Scenes/s_intestine2.unity
+    guid: 9f6b040cf2f18a74ea02f8322801bb37
+  - enabled: 1
+    path: Assets/Scenes/s_intestine3.unity
+    guid: 36536b9d57d8539488c2f7d538840237
+  - enabled: 1
+    path: Assets/Scenes/stomach1.unity
+    guid: 4522110d20d8270438bb0056f6f477eb
+  - enabled: 1
+    path: Assets/Scenes/stomach2.unity
+    guid: c2a211e1cdb540d46ab72cd9fcd73826
+  - enabled: 1
+    path: Assets/Scenes/stomach3.unity
+    guid: 5180a2897adac9f4ba14ca7a39da87bb
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: fbe61300b29ee4b4a97119607d298e47
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6884ad35fd614cd488d2d392cc2215a6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1b528cf006ae5f34c9402cad55603b38,
+      type: 2}
